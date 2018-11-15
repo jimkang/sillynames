@@ -47,7 +47,7 @@ button {
 }
 
 #silly-name-field {
-  font-size: 7em;
+  font-size: 6em;
   flex-grow: 2;
   display: flex;
   align-items: center;
